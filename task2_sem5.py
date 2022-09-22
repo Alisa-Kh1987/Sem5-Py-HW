@@ -56,7 +56,7 @@
 
 # Против бота
 from random import randint
-candies = 200
+candies = 2021
 print(f'{candies} всего конфет')
 count = randint(1, 2)
 while candies > 0:
